@@ -2,7 +2,8 @@
  * @file dynamic_strategy.cpp
  * @author Karan Chawla (krnchwla@gmail.com)
  * @brief This example shows how the Strategy pattern can be used to dynamically
- * select the text processor (markdown or html) for list creation. HTLM: <ul>
+ * select the text processor (markdown or html) for list creation.
+ * HTML: <ul>
  * <li> Foo
  * <li> Bar
  * <ul>
